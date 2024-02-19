@@ -15,7 +15,7 @@
 - 📫 **Feel free to contact me at anytime!**
 - 📝 **Checkout my** [blog](https://itinerant.tistory.com/)!
 - 🚀 **Here is my toy projects!**
-  - ✍️ [vocab](react-vocab.vercel.app) created with React.
+  - ✍️ [vocab](https://react-vocab.vercel.app) created with React.
   - ⌨ [clone-monkeyType](https://jiyeon-dev.github.io/clone_monkeyType/) created with React. 
 
 <br />
