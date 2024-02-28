@@ -10,7 +10,7 @@
 <!-- - 🔭 **I’m currently working on:** ML models -->
 - 🔭 **I’m currently looking for a job!**
 - 🌱 **I’m currently learning:** react.js & typescript
-- 👯 **I’m looking to collaborate on:** react.js & next.js projects
+- 👯 **I’m looking to collaborate on:** react.js & spring projects
 - ⚡ **Hobbies:** traveling, music, pet my cat
 - 📫 **Feel free to contact me at anytime!**
 - 📝 **Checkout my** [blog](https://itinerant.tistory.com/)!
