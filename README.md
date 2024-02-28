@@ -1,6 +1,5 @@
 # Hello, I'm JiYeon! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
----
 
 <!-- credits for gif https://gph.is/g/ZWg5jr7 -->
 <img align="right" width="200" src="https://avatars.githubusercontent.com/u/65294323?v=4">
@@ -35,9 +34,8 @@
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
----
-
 <p align="center">
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=jiyeon-dev&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" />
+<!-- <img height="150px" src="https://github-readme-stats.vercel.app/api?username=jiyeon-dev&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" /> -->
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyeon-dev&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" />
+  <h2 align="center">🫶</h2>
 </p>
