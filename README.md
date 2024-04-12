@@ -16,7 +16,9 @@
 - 🚀 **Here is my toy projects!**
   - 🅱 [ducky](https://ducky-alpha.vercel.app) created with React.
   - ✍️ [vocab](https://react-vocab.vercel.app) created with React.
-  - ⌨ [clone-monkeyType](https://jiyeon-dev.github.io/clone_monkeyType/) created with React. 
+  - ⌨ [clone-monkeyType](https://jiyeon-dev.github.io/clone_monkeyType/) created with React.
+- 👩🏻‍💻 **Studying**
+  - Solve algorithms [js_algorithm](https://github.com/jiyeon-dev/js_algorithm)
 
 <br />
 
